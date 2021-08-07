@@ -4,8 +4,8 @@
 The project aims to develop an ESP32 controlled smart door lock as a part of home automation.
 
 ## Requirements
-Library
-* <WiFi.h>
+Library <WiFi.h>
+
 Password = 0101
 
 ## Working
