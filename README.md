@@ -6,7 +6,10 @@ given 4 sec time to enter the password; 1 sec per bit (tap). A tap/touch can be 
 “Welcome Home Student Name ”.
 
 ## Result
+### Serial Monitor
 <img src="serial_monitor.png">
-<img src="https://github.com/AdityaWadichar/Smart_Door_Lock/blob/70f698cb924c84dbbb76972039e60a489f5cec81/webpage.png">
+
+### Webpage
+<img src="webpage.png">
 
 ## [Demonstration](https://youtu.be/MuNkKupp1k8)
